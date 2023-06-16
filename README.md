@@ -1,2 +1,0 @@
-# ImgsPicGo
-PicGo图床
